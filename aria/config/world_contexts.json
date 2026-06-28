@@ -1,0 +1,33 @@
+{
+  "active": "",
+  "contexts": {
+    "TestWorld": {
+      "world_name": "TestWorld",
+      "world_description": "A sci-fi colony",
+      "aria_role": "Commander Shen",
+      "knowledge_bounds": "Everything native to TestWorld",
+      "knowledge_limits": "Technology beyond this world"
+    },
+    "Rune Catchers": {
+      "world_name": "Rune Catchers",
+      "world_description": "An open-world rune-hunting RPG where artifacts grant power",
+      "aria_role": "Ryn the Guide",
+      "knowledge_bounds": "Everything native to Rune Catchers",
+      "knowledge_limits": "Technology beyond this world"
+    },
+    "Murim": {
+      "world_name": "Murim",
+      "world_description": "Ancient martial arts world",
+      "aria_role": "Elder Jang",
+      "knowledge_bounds": "Everything native to Murim",
+      "knowledge_limits": "Technology beyond this world"
+    },
+    "Perf World": {
+      "world_name": "Perf World",
+      "world_description": "A big world",
+      "aria_role": "Speed Character",
+      "knowledge_bounds": "Everything native to Perf World",
+      "knowledge_limits": "Technology beyond this world"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ORACLE_MODE": false,
+  "FOOL_MODE": false,
+  "SCHOLAR_MODE": false,
+  "NPC_MODE": false,
+  "ASSISTANT_MODE": true,
+  "MATH_ENGINE": false,
+  "MEMORY": false
+}
