@@ -9,13 +9,9 @@
   1. Install Java 21 (one-time, only if you don't have it)
      Download: https://adoptium.net/temurin/releases/?version=21
 
-  2. Double-click  setup.bat
+  2. Double-click  ARIA.bat
      This downloads everything else and builds ARIA.
      Takes 2-5 minutes the first time.
-
-  3. Double-click  run.bat
-     ARIA opens. You can add your API key inside the
-     Settings panel, or paste it into the .env file first.
 
 
 --- DAILY USE ---
